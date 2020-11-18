@@ -1,6 +1,6 @@
-# bill_splitter
+# Bill Splitter
 
-A new Flutter project.
+A Flutter project for both ios and android devices used to split the bill between friends .
 
 ## Getting Started
 
